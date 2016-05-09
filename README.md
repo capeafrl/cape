@@ -1,2 +1,2 @@
 # cape
-This is a place to place all software for CAPe
+This is changing as we speak.
