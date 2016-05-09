@@ -1,2 +1,2 @@
 # cape
-This is changing as we speak.
+This is changing as we speak. We are making changes
